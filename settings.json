@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "MedievalAFK",
     "password": "",
-    "type": "online"
+    "type": "mojang"
   },
   "server": {
     "ip": "MedievalSMP4.aternos.me",
     "port": 24680,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
