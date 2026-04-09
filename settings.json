@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "MedievalAFK",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "MedievalSMP4.aternos.me",
