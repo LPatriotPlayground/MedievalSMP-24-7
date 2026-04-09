@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "MedievalAFK",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "MedievalSMP4.aternos.me",
     "port": 24680,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
